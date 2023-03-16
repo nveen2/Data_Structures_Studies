@@ -1,5 +1,0 @@
-Node* insertbegg(Node * head, int n){
-        Node *temp= new Node(n);
-        temp->next=head;
-    return temp;
- }
